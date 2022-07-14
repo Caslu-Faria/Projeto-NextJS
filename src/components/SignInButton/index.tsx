@@ -1,7 +1,7 @@
 import { FaGithub } from 'react-icons/fa'
 import { FiX } from 'react-icons/fi'
 import { signIn, useSession } from 'next-auth/react'
-import { Provider as NextAuthProvider } from 'next-auth/providers'
+
 
 import styles from './styles.module.scss'
 
